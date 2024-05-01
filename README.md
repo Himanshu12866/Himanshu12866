@@ -11,18 +11,9 @@
     <h3>This is a sort note about me</h3>
     <p>Firstly I would like say Radhe Radhe to everyone.</p>
     <p><em>
-      “As a fresher in web developer with a passion for innovative design and a
-      strong background in various programming languages including HTML5, CSS3,
-      and JavaScript. Seeking a challenging position to utilize my skills for
-      the growth of the organization as well as to enhance my knowledge about
-      new and emerging trends in the web development sector.” Currently I am
-      pursuing my Master's degree in Computer Science from the Awadhesh Pratap
-      Singh University. I am also want to learn MEAN Full Stack Developer. Also
-      I have a basic knowledge about multiple programming languages like
-      C,C++,Java etc. I learned basic concept about Data Structure. Recently I
-      have completed my 30 days Soft Skill Training from Unnati Organization.
-      “To secure a challenging position as a web developer, where I can utilize
-      my skills and knowledge efficiently for organizational growth.”
+      "As a UI Developer trainee at Naresh i Technologies, I design and develop user-friendly web applications using the MERN Stack (MongoDB, Express.js, React.js, and Node.js). I collaborate with other developers and clients to deliver high-quality products that meet the user requirements and specifications. I also test and debug the web applications to ensure their functionality and performance.
+
+I am currently pursuing my Master's degree in Computer Science from the Awadhesh Pratap Singh Vishwavidyalaya, where I have learned various programming languages, data structures, algorithms, and software engineering principles. I have also completed several certifications in HTML5, CSS3, JavaScript, and soft skills development, which have enhanced my web development skills and knowledge. I am passionate about innovative design and emerging trends in the web development sector, and I seek a challenging position that will allow me to utilize my skills and knowledge for the growth of the organization and my professional development."
       </em>
     </p>
   </body>
