@@ -4,8 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu12866&theme=tokyonight" alt="himanshu12866" /></a> </p>
 
-- 🔭 I’m currently working on [Prescripto](https://github.com/Himanshu12866/prescripto)
-- 👯 I’m looking to collaborate on [Prescripto](https://github.com/Himanshu12866/prescripto)
+- 🔭 I’m currently working on [Dr.Appointment Booking Web App](https://github.com/Himanshu12866/prescripto](https://github.com/Himanshu12866/prescripto)
+- 👯 I’m looking to collaborate on [Dr.Appointment Booking Web App](https://github.com/Himanshu12866/prescripto)
 - 🤝 I’m looking for help with [React, Next JS]
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **React , Next JS , TypeScript**
