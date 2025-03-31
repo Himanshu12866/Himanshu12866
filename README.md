@@ -9,8 +9,7 @@
 - 🤝 I’m looking for help with [React, Next JS , Node JS]
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **React JS,Node JS , TypeScript**
-- 📫 How to reach me **manshu010m@gmail.com**
-- 👨‍💻 All of my projects are available at **https://himanshu12866.github.io/my-portfolio/**
+- 👨‍💻 All of my projects are available at <a href="https://himanshu12866.github.io/my-portfolio/" target="_blank">My Projects</a>
 
 <div> <a href="https://twitter.com/@himanshu_2_2_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/himanshumishra17" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
