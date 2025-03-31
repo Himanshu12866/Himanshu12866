@@ -19,9 +19,7 @@
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@himanshu_2_2_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@himanshu_2_2_" height="30" width="40" /></a><a href="https://linkedin.com/in/himanshumishra17" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="himanshumishra17" height="30" width="40" /></a><a href="https://fb.com/himanshumishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="himanshumishra" height="30" width="40" /></a></p>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/himanshu12866/himanshu12866/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake Animation" />
-</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
