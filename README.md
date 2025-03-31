@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu12866&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu12866" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu12866&theme=tokyonight" alt="himanshu12866" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu12866&theme=dracula" alt="himanshu12866" /></a> </p>
 
 - 🔭 Checkout My Major Project [Dr.Appointment Booking Web App](https://drbookwebapp-frontend.onrender.com/)
 - 👯 I’m looking to collaborate on [Dr.Appointment Booking Web App](https://drbookwebapp-frontend.onrender.com/)
@@ -58,7 +58,7 @@
 ###
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Statistics</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=himanshu12866&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=himanshu12866&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -67,7 +67,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshu12866&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="220" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu12866&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=nightowl&hide_border=false&order=2" height="220" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu12866&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="220" alt="languages graph"  />
 </div>
 
 ###
@@ -77,13 +77,13 @@
 
 <div align="center">
 <a href="https://github.com/himanshu12866">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshu12866&theme=2077"  height="220" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshu12866&theme=2077" height="220" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshu12866&theme=2077"  height="220" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshu12866&theme=dracula"  height="220" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshu12866&theme=dracula" height="220" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshu12866&theme=dracula"  height="220" />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu12866&theme=2077"  height="220" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu12866&theme=dracula"  height="220" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu12866&theme=tokyo-night"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu12866&theme=dracula"/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
