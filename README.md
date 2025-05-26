@@ -12,7 +12,7 @@
 
 ## Open Source Contributions
 
-- 🚀 Contributed CSS styles & animations to [uiverse.io]([https://uiverse.io/](https://uiverse.io/profile/Himanshu12866)), helping build a slick, community-driven CSS animation playground.
+- 🚀 Contributed CSS styles & animations to <a href="https://uiverse.io/profile/Himanshu12866"> Uiverse Community</a> helping build a slick, community-driven CSS animation playground.
 
 
 <div> <a href="https://twitter.com/@himanshu_2_2_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
