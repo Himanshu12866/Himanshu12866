@@ -1,0 +1,30 @@
+name: 🔷 Generate 3D Contribution Grid
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"  # every Sunday at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout your repo
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Grid Image
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: himanshu12866
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add profile-3d-contrib/*.svg || exit 0
+          git commit -m "🛠️ Update 3D contribution grid" || echo "No updates."
+          git push
