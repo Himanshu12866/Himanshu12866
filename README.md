@@ -9,9 +9,6 @@
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **React JS,Node JS , TypeScript**
 
-## Open Source Contributions
-<br/>
-- 🚀 Contributed CSS styles & animations to <a href="https://uiverse.io/profile/Himanshu12866"> Uiverse Community</a> helping build a slick, community-driven CSS animation playground.
 
 <br/>
 <br/><br/>
