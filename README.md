@@ -4,7 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu12866&theme=dracula" alt="himanshu12866" /></a> </p>
 
-- 🔭 Checkout My Major Project [Dr.Appointment Booking Web App](https://drbookwebapp-frontend.onrender.com/)
+- 🔭 Checkout My Project [Dr.Appointment Booking Web App](https://drbookwebapp-frontend.onrender.com/)
+- 🔭 Checkout My Project [Synk Chat Application](https://synk-chat-five.vercel.app/)
+- 🔭 Checkout My Portfolio [Himanshu Mishra](https://hemanshu-mishra.vercel.app/)
 - 🤝 I’m looking for help with [React, Next JS , Node JS]
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **React JS,Node JS , TypeScript**
