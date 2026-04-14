@@ -44,11 +44,12 @@
 
 <div align="center">
 <a href="https://github.com/himanshu12866">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshu12866&theme=dracula"  height="220" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshu12866&theme=radical"  height="220" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshu12866&theme=dracula" height="220" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu12866&theme=dracula"  height="220" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu12866&theme=dracula" alt="himanshu1" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu12866&theme=dracula"/>
 
 
