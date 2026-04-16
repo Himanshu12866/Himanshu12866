@@ -18,8 +18,7 @@
 <a href="https://github.com/himanshu12866" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:manshu010m@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@himanshu_2_2_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@himanshu_2_2_" height="30" width="40" /></a><a href="https://linkedin.com/in/himanshumishra17" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="himanshumishra17" height="30" width="40" /></a><a href="https://fb.com/himanshumishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="himanshumishra" height="30" width="40" /></a></p>
+
 
 ###
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">💪Statistics:</h2>
