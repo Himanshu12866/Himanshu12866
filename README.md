@@ -6,9 +6,9 @@
 - 🔭 Checkout My Project [Dr.Appointment Booking Web App](https://drbookwebapp-frontend.onrender.com/)
 - 🔭 Checkout My Project [Synk Chat Application](https://synk-chat-five.vercel.app/)
 - 🔭 Checkout My Portfolio [Himanshu Mishra](https://hemanshu-mishra.vercel.app/)
-- 🤝 I’m looking for help with [React, Next JS , Node JS]
-- 🌱 I’m currently learning **TypeScript**
-- 💬 Ask me about **React JS,Node JS , TypeScript**
+- 🤝 I’m looking for help with [React, Next JS , React Native]
+- 🌱 I’m currently learning **React Native**
+- 💬 Ask me about **React JS,Next JS , TypeScript**
 
 
 <br/>
