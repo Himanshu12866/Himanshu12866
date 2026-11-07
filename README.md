@@ -25,7 +25,7 @@
 <img src="https://github-trophies.vercel.app/?username=himanshu12866&theme=nord&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=himanshu12866&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
+  <img src="https://streak-stats.demolab.com?user=himanshu12866&theme=nord&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
 </div>
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=himanshu12866&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130586038%3Fu%3D1db96d5b14c087a5be38daffcd568ee233d0032c%26v%3D4" alt="himanshu12866 stats visual" />
