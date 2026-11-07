@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=himanshu12866&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130586038%3Fu%3D1db96d5b14c087a5be38daffcd568ee233d0032c%26v%3D4" alt="himanshu12866 hero visual" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Himanshu</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu12866&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu12866" /> </p>
+<p align="center"><b>Himanshu Kumar Mishra</b> · Frontend or full-stack engineer<br/><sub>Passionate UI Developer crafting seamless digital experiences. 🎨 | Lover of clean code &amp; pixel perfection. 💻 | Let's build beautiful interfaces together! ✨ #</sub></p>
+
+<p align="center"><a href="https://github.com/himanshu12866">GitHub</a> · <a href="https://hemanshumishra.netlify.app/">Website</a> · <a href="https://x.com/hema_nshu">X</a></p>
 
 
 - 🔭 Checkout My Project [Dr.Appointment Booking Web App](https://drbookwebapp-frontend.onrender.com/)
@@ -10,45 +14,27 @@
 - 🌱 I’m currently learning **React Native**
 - 💬 Ask me about **React JS,Next JS , TypeScript**
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=himanshu12866&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130586038%3Fu%3D1db96d5b14c087a5be38daffcd568ee233d0032c%26v%3D4" alt="himanshu12866 projects visual" />
+</p>
 
-<br/>
-<br/>
-<div> <a href="https://twitter.com/@himanshu_2_2_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/himanshumishra17" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/himanshu12866" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:manshu010m@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-
-
-###
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">💪Statistics:</h2>
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-![](https://github-readme-stats.vercel.app/api?username=himanshu12866&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=himanshu12866&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu12866&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=himanshu12866&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-###
-
-### 🔮 My 3D Contribution Grid
-
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
-
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=himanshu12866&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130586038%3Fu%3D1db96d5b14c087a5be38daffcd568ee233d0032c%26v%3D4" alt="himanshu12866 stack visual" />
+</p>
 <div align="center">
-<a href="https://github.com/himanshu12866">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshu12866&theme=radical"  height="220" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshu12866&theme=dracula" height="220" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshu12866&theme=dracula"  height="220" />
+<img src="https://github-trophies.vercel.app/?username=himanshu12866&theme=nord&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu12866&theme=dracula" alt="himanshu1" />
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu12866&theme=dracula"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=himanshu12866&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
+</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=himanshu12866&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130586038%3Fu%3D1db96d5b14c087a5be38daffcd568ee233d0032c%26v%3D4" alt="himanshu12866 stats visual" />
+</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=himanshu12866&theme=neon" alt="himanshu12866 contribution activity" />
+</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=himanshu12866&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130586038%3Fu%3D1db96d5b14c087a5be38daffcd568ee233d0032c%26v%3D4" alt="himanshu12866 social visual" />
+</p>
 
 
